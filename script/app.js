@@ -23,14 +23,14 @@ document.addEventListener('click', (event) => {
   }
 })
 
-function gerenerateRandomColor() {
-  const hexCodes = '0123456789ABCDEF'
-  let color = ''
-  for (let i = 0; i < 6; i++) {
-    color += hexCodes[Math.floor(Math.random() * hexCodes.length)]
-  }
-  return '#' + color
-}
+// function gerenerateRandomColor() {
+//   const hexCodes = '0123456789ABCDEF'
+//   let color = ''
+//   for (let i = 0; i < 6; i++) {
+//     color += hexCodes[Math.floor(Math.random() * hexCodes.length)]
+//   }
+//   return '#' + color
+// }
 
 function copyToClickboard(text) {
   return navigator.clipboard.writeText(text)
