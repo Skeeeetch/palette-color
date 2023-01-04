@@ -1,3 +1,3 @@
 # palette-color
 easy color palette
-Use This
+Use This!
