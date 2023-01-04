@@ -1,4 +1,4 @@
 # palette-color
-easy color palette
+Easy for use color palette
 Use This!
 ☺
