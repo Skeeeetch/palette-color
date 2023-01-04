@@ -16,6 +16,9 @@ body{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+
+    margin: 10px 5px;
+    border-radius: 100px;
 }
 .col h2{
     padding: 10px;
